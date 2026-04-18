@@ -1,0 +1,8 @@
+{
+  "flowerName": "Tulip",
+  "scientificName": "Tulipa",
+  "averageHeightCm": 45,
+  "bloomSeason": "Spring",
+  "waterPerWeekMl": 500,
+  "sunlightHoursPerDay": 6
+}
